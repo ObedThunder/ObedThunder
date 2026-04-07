@@ -21,3 +21,4 @@ Soy un ingeniero enfocado en los datos, con un pensamiento altamente lógico y u
 
 ## 📫 Conecta conmigo
 - [Mi Perfil de LinkedIn](https://www.linkedin.com/in/obed-antonio-celis-09a4aa2a5)
+.....
